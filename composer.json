@@ -1,0 +1,21 @@
+{
+    "name": "pinta/sharobuttons",
+    "description": "Pinta ShareBottons",
+
+     "type": "magento2-module",
+"version": "2.6.3",
+    "license": "(LGPL-2.1-only or GPL-3.0-or-later)",
+    "authors": [
+        {
+            "name": "Pintawebware",
+            "email": "pinta@pinta.com.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "version":"1.0.0",
+    "autoload": {
+        "psr-0": { "Symfony\\Component\\Yaml\\": "" }
+    },
+    "target-dir": "Symfony/Component/Yaml"
+}
